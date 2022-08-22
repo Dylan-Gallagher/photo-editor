@@ -1,2 +1,2 @@
 # Photo Editor
-Command Line photo editor written in C
+Command line photo editor written in C
