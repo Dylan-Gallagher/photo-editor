@@ -1,5 +1,5 @@
 # Photo Editor
-## Command line photo editor written in C
+Command line photo editor written in C
 
 ## Overview
 The simple photo editor can apply different effects to images (blur, grayscale, reflect, sepia) to BMP files
